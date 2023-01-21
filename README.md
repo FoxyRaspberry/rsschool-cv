@@ -1,1 +1,1 @@
-# [rsschool-cv](https://foxyraspberry.github.io/rsschool-cv/cv)
+# [rsschool-cv](https://foxyraspberry.github.io/rsschool-cv/)
